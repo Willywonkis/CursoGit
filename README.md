@@ -24,7 +24,7 @@ hola guille, te comento que eres un ...lento
 ::::::::|–\_|_//–::|
 
 
-ad as socorro
+ad as socorro ayuda
 adsa
 
 _________________________$$$$$_________________________
