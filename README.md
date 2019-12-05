@@ -1,6 +1,6 @@
 # CursoGit
 <<<<<<< HEAD
-hola guille, te comento que eres un ... chico muy guapo
+hola guille, te comento que eres un ... chico muy muy guapo
 =======
 hola guille, te comento que eres un ...lento
 
@@ -26,7 +26,7 @@ hola guille, te comento que eres un ...lento
 
 ad as socorro ayuda
 adsa
-adsa
+adsa 		
 _________________________$$$$$_________________________
 ________________________$$$$$$$________________________
 _______________________$$$$$$$$$_______________________
