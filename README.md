@@ -2,7 +2,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 
-ESTA LINEA ES UNA MIERDA
+ESTA LINEA ES UNA MIERDA, COMO TU
+
 hola guille, te comento que eres un ... chico
 
 =======
