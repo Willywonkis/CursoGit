@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 
 
-hola guille, te comento que eres un ... chico muy tonto
+hola guille, te comento que eres un ... chico
 
 =======
 hola guille, te comento que eres un ...lento
