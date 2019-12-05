@@ -1,9 +1,13 @@
 # CursoGit
 <<<<<<< HEAD
+<<<<<<< HEAD
 
-
+ESTA LINEA ES UNA MIERDA
 hola guille, te comento que eres un ... chico
 
+=======
+hola guille, te comento que eres un ... chico muy muy guapo
+>>>>>>> 0c21671504a9f526e44456d5d00b6e720847ace6
 =======
 hola guille, te comento que eres un ...lento
 
@@ -27,9 +31,9 @@ hola guille, te comento que eres un ...lento
 ::::::::|–\_|_//–::|
 
 
-ad as socorro
+ad as socorro ayuda
 adsa
-
+adsa 		
 _________________________$$$$$_________________________
 ________________________$$$$$$$________________________
 _______________________$$$$$$$$$_______________________
